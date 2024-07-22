@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.product {
+  width: 590px !important;
+}
+
+.product img {
+  height: 200px !important;
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-detail-header {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
